@@ -24,4 +24,4 @@ python3 pixel-shift.py
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone (https://github.com/your-username/pixelshift.git)
+   git clone (https://github.com/dzenan-dzizic/pixelshift.git)
